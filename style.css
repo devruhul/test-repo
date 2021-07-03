@@ -102,9 +102,23 @@ body{
     font-size: 20px;
     
 }
+.button1{
+    padding: 10px 10px;
+    margin: 10px 0;
+    border: 2px solid lightgreen;
+    border-radius: 15px;
+    background-color: lightpink;
+
+}
+.button1:hover{
+    padding: 10px 10px;
+    margin: 10px 0;
+    border: 2px dashed lightgreen;
+    background-color: lightsalmon;
+}
 .card2{
     color: fuchsia;
-    background-color: lightgray;
+    background-color: lightseagreen;
     width: 100%;
     padding: 10px 20px;
     margin: 0px 20px;
@@ -112,8 +126,22 @@ body{
     color: crimson;
     font-size: 20px;
 }
+.button2{
+    padding: 10px 10px;
+    margin: 10px 0;
+    border: 2px solid lightgreen;
+    border-radius: 15px;
+    background-color: lightpink;
+
+}
+.button2:hover{
+    padding: 10px 10px;
+    margin: 10px 0;
+    border: 2px dashed lightgreen;
+    background-color: lightsalmon;
+}
 .card2 p{
-    color: crimson;
+    color: white;
     font-size: 20px;
 }
 .card3{
@@ -124,4 +152,18 @@ body{
     margin: 0px 20px;
     border: 2px solid goldenrod;
     font-size: 20px;
+}
+.button3{
+    padding: 10px 10px;
+    margin: 10px 0;
+    border: 2px solid lightgreen;
+    border-radius: 15px;
+    background-color: lightpink;
+
+}
+.button3:hover{
+    padding: 10px 10px;
+    margin: 10px 0;
+    border: 2px dashed lightgreen;
+    background-color: lightsalmon;
 }
