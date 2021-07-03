@@ -3,11 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
-.container{
-    
+.full-website{
     width: 1200px;
     height: 100%;
     margin: 0 auto;
+}
+.hr-title{
+    text-align: center;
+    margin-top: 20px;
+}
+.container{
     border: 2px solid deeppink;
     border-radius: 50px;
     margin-top: 30px;
