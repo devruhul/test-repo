@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightskyblue;
+}
+.full-website{
+   
+    
+}
+.hr-title{
+    text-align: center;
+    margin-top: 10px;
+    text-transform: uppercase;
+    color: white;
+}
+.box img{
+    width: 1000px;
+    height: 400px;
+    position: relative;
+    top: 10px;
+    left: 100px
+}
+.inner-box h3{
+    font-family: "Nothing You Could Do";
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: .5;
+    color: #fff;
+    margin-bottom: 0;
+    color: white;
+    width: 70%;
+    height: 70%;
+    position: absolute;
+    top: 35%;
+    left: 20%;
+}
+.inner-box p{
+    color: white;
+    width: 70%;
+    height: 70%;
+    position: absolute;
+    top: 45%;
+    left: 18%;
+    text-align: justify;
+    font-family: "Nothing You Could Do";
+    text-transform: capitalize;
+    font-weight: 400;
+    line-height: .5;
+    color: #fff;
+    margin: 20px;
+
+}
+.hero-section{
+    width: 100%;
+    min-height: 100px;
+    /* background-color: darkcyan; */
+}
+.hero-img img{
+    width: 100%;
+    background: red;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 100%;
+    height: 500px;
+     
+      
+}
+.hero-title
+.hero-title h2{
+    position: absolute;
+    right: -30px;
+    top: -30px;
+    color: crimson;
+    background-color: coral;
+}
+.container{
+    border: 2px solid deeppink;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.item{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin: 30px auto;
+    
+    
+}
+.card1{
+    color: blanchedalmond;
+    background-color: chocolate;
+    width: 100%;
+    padding: 10px 20px;
+    margin: 0px 20px;
+    border: 2px solid deeppink;
+    color: white;
+    font-size: 20px;
+    
+}
+.card2{
+    color: fuchsia;
+    background-color: lightgray;
+    width: 100%;
+    padding: 10px 20px;
+    margin: 0px 20px;
+    border: 2px solid deeppink;
+    color: crimson;
+    font-size: 20px;
+}
+.card2 p{
+    color: crimson;
+    font-size: 20px;
+}
+.card3{
+    color: white;
+    background-color: crimson;
+    width: 100%;
+    padding: 10px 20px;
+    margin: 0px 20px;
+    border: 2px solid goldenrod;
+    font-size: 20px;
+}
