@@ -6,10 +6,10 @@
 body{
     background-color: lightskyblue;
 }
-.full-website{
+/* .full-website{
    
     
-}
+} */
 .hr-title{
     text-align: center;
     margin-top: 10px;
@@ -57,7 +57,7 @@ body{
 .hero-section{
     width: 100%;
     min-height: 100px;
-    /* background-color: darkcyan; */
+   
 }
 .hero-img img{
     width: 100%;
